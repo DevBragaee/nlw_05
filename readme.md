@@ -8,6 +8,7 @@ rodar o comando:
  # Abrir o navegador e colocar o enderço :
  http://localhost:3000/pages/client
  e
+ 
  http://localhost:3000/pages/admin
 
 
