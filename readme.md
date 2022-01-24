@@ -5,8 +5,9 @@ roda o comando:
 rodar o comando: 
  yarn dev
 
- # Abrir o navegador e colocar o enderço :
+ # Abrir o navegador e colocar os endereços :
  http://localhost:3000/pages/client
+ 
  e
  
  http://localhost:3000/pages/admin
